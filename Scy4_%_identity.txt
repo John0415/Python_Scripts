@@ -1,0 +1,2038 @@
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf4	SPOG_03603	40.964	249	110	8	1	236	1	225	1.07e-48	158
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+wtf4	SPOG_03603	45.957	235	106	7	1	227	1	222	3.66e-60	187
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+wtf4	SPOG_03603	66.667	39	12	1	1	39	1	38	4.18e-10	53.9
+wtf4	XP_013022188.1	64.103	39	14	0	1	39	1	39	5.28e-06	42.4
+wtf4	XP_013022189.1	64.103	39	14	0	1	39	1	39	5.63e-06	42.4
+wtf4	SPOG_03611	64.103	39	14	0	1	39	1	39	5.83e-06	42.4
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf4	XP_013022188.1	47.674	86	36	1	1	86	1	77	8.09e-15	68.6
+wtf4	XP_013022189.1	47.674	86	36	1	1	86	1	77	1.16e-14	68.6
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf4	XP_013022188.1	47.674	86	36	1	1	86	1	77	8.09e-15	68.6
+wtf4	XP_013022189.1	47.674	86	36	1	1	86	1	77	1.16e-14	68.6
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 17 hits found
+wtf4	SPOG_02647	77.475	2313	516	3	1	2312	1	2309	0.0	3704
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf4	SPOG_03603	40.909	110	53	3	1	99	1	109	1.53e-17	73.6
+wtf4	XP_013022188.1	62.712	59	22	0	1	59	1	59	4.73e-16	69.3
+wtf4	XP_013022189.1	62.712	59	22	0	1	59	1	59	5.76e-16	69.3
+wtf4	SPOG_03611	62.712	59	22	0	1	59	1	59	8.18e-16	68.9
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf4	XP_013022188.1	62.712	59	22	0	1	59	1	59	3.24e-15	69.3
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf4	XP_013022188.1	62.712	59	22	0	1	59	1	59	3.24e-15	69.3
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf4	SPOG_03603	40.496	242	111	12	1	233	1	218	5.06e-44	146
+wtf4	XP_013022188.1	40.758	211	95	7	1	195	1	197	9.67e-31	111
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf4	SPOG_03611	41.060	151	69	5	1	145	1	137	1.44e-20	81.6
+wtf4	XP_013022188.1	41.781	146	64	6	1	140	1	131	5.84e-20	79.7
+wtf4	XP_013022189.1	41.781	146	64	6	1	140	1	131	7.55e-20	79.7
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf4	SPOG_03603	43.697	238	116	7	1	233	1	225	4.81e-58	182
+wtf4	SPOG_03611	40.927	259	118	11	1	255	1	228	1.06e-37	130
+wtf4	XP_013022188.1	40.639	219	102	7	1	205	1	205	3.77e-29	107
+wtf4	XP_013022189.1	40.639	219	102	7	1	205	1	205	5.00e-29	107
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf4	XP_013022188.1	63.077	65	22	1	1	63	1	65	6.32e-16	70.9
+wtf4	XP_013022189.1	63.077	65	22	1	1	63	1	65	8.37e-16	70.9
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf4	XP_013022188.1	44.697	132	66	4	1	127	1	130	6.77e-24	92.4
+wtf4	XP_013022189.1	44.697	132	66	4	1	127	1	130	1.37e-23	92.0
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf4	SPOG_03603	40.086	232	117	7	1	224	1	218	4.72e-44	146
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+wtf4	SPOG_01857	77.342	587	132	1	1	586	1	587	0.0	979
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf4	SPOG_03603	41.667	228	117	5	1	223	1	217	4.60e-48	157
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf4	SPOG_03603	44.681	235	112	4	1	230	1	222	3.54e-60	188
+wtf4	XP_013022188.1	41.333	150	69	4	1	145	1	136	2.92e-23	92.0
+wtf4	XP_013022189.1	41.333	150	69	4	1	145	1	136	5.12e-23	92.0
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf4	SPOG_03603	40.400	250	120	9	1	246	1	225	9.77e-50	161
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf4	XP_013022188.1	44.755	143	64	5	1	141	1	130	1.26e-23	93.2
+wtf4	XP_013022189.1	44.755	143	64	5	1	141	1	130	2.72e-23	92.4
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf4	XP_013022188.1	44.755	143	64	5	1	141	1	130	1.26e-23	93.2
+wtf4	XP_013022189.1	44.755	143	64	5	1	141	1	130	2.72e-23	92.4
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf4	XP_013022188.1	44.828	174	62	7	1	169	1	145	1.49e-26	100
+wtf4	XP_013022189.1	44.828	174	62	7	1	169	1	145	3.20e-26	99.8
+# BLASTP 2.7.1+
+# Query: wtf4
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf4	SPOG_03611	48.352	273	89	9	1	266	1	228	2.94e-65	201
+wtf4	XP_013022188.1	51.282	234	74	7	1	227	1	201	4.61e-60	187
+wtf4	XP_013022189.1	51.282	234	74	7	1	227	1	201	1.17e-59	186
+# BLASTP 2.7.1+
+# Query: wtf5
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf5
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf5	SPOG_01551	81.436	905	158	5	1	905	1	895	0.0	1488
+# BLASTP 2.7.1+
+# Query: wtf5
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf5	SPOG_03603	43.697	238	116	7	1	233	1	225	4.81e-58	182
+wtf5	SPOG_03611	40.927	259	118	11	1	255	1	228	1.06e-37	130
+wtf5	XP_013022188.1	40.639	219	102	7	1	205	1	205	3.77e-29	107
+wtf5	XP_013022189.1	40.639	219	102	7	1	205	1	205	5.00e-29	107
+# BLASTP 2.7.1+
+# Query: wtf5
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+wtf5	SPOG_02102	81.299	508	95	0	1	508	1	508	0.0	836
+# BLASTP 2.7.1+
+# Query: wtf5
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf5	SPOG_01079	75.177	705	170	3	1	702	1	703	0.0	1016
+# BLASTP 2.7.1+
+# Query: wtf5
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf5	SPOG_00375	84.368	467	73	0	1	467	1	467	0.0	791
+# BLASTP 2.7.1+
+# Query: wtf5
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf5	XP_013022188.1	44.755	143	64	5	1	141	1	130	1.26e-23	93.2
+wtf5	XP_013022189.1	44.755	143	64	5	1	141	1	130	2.72e-23	92.4
+# BLASTP 2.7.1+
+# Query: wtf5
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+wtf5	SPOG_02971	86.275	714	98	0	2	715	74	787	0.0	1297
+# BLASTP 2.7.1+
+# Query: wtf5
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 16 hits found
+wtf5	SPOG_01647	84.310	529	69	3	1	529	1	515	0.0	934
+wtf5	SPOG_03517	66.352	529	171	3	1	529	1	522	0.0	758
+wtf5	SPOG_03513	69.466	524	158	2	1	524	1	522	0.0	756
+wtf5	SPOG_03518	61.079	519	189	4	1	515	1	510	0.0	680
+wtf5	SPOG_01228	59.733	524	207	3	2	524	9	529	0.0	658
+wtf5	SPOG_03625	51.838	517	242	2	1	512	1	515	0.0	573
+# BLASTP 2.7.1+
+# Query: wtf5
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf5	SPOG_03611	48.352	273	89	9	1	266	1	228	2.94e-65	201
+wtf5	XP_013022188.1	51.282	234	74	7	1	227	1	201	4.61e-60	187
+wtf5	XP_013022189.1	51.282	234	74	7	1	227	1	201	1.17e-59	186
+# BLASTP 2.7.1+
+# Query: wtf6 |
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf6	XP_013022188.1	47.674	86	36	1	1	86	1	77	8.09e-15	68.6
+wtf6	XP_013022189.1	47.674	86	36	1	1	86	1	77	1.16e-14	68.6
+# BLASTP 2.7.1+
+# Query: wtf6
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+wtf6	SPOG_02902	73.327	1136	250	14	1	1089	1	1130	0.0	1630
+# BLASTP 2.7.1+
+# Query: wtf6
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf6	SPOG_03603	43.697	238	116	7	1	233	1	225	4.81e-58	182
+wtf6	SPOG_03611	40.927	259	118	11	1	255	1	228	1.06e-37	130
+wtf6	XP_013022188.1	40.639	219	102	7	1	205	1	205	3.77e-29	107
+wtf6	XP_013022189.1	40.639	219	102	7	1	205	1	205	5.00e-29	107
+# BLASTP 2.7.1+
+# Query: wtf6
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+wtf6	SPOG_02154	84.882	1528	219	5	1	1517	1	1527	0.0	2645
+# BLASTP 2.7.1+
+# Query: wtf6
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+wtf6	SPOG_01981	76.634	1836	392	17	1	1817	1	1818	0.0	2623
+# BLASTP 2.7.1+
+# Query: wtf6
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+wtf6	SPOG_01146	82.816	838	139	3	1	836	1	835	0.0	1385
+# BLASTP 2.7.1+
+# Query: wtf6
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf6	SPOG_01079	75.177	705	170	3	1	702	1	703	0.0	1016
+# BLASTP 2.7.1+
+# Query: wtf6
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf6	SPOG_00375	84.368	467	73	0	1	467	1	467	0.0	791
+# BLASTP 2.7.1+
+# Query: wtf6
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 12 hits found
+wtf6	SPOG_00838	77.593	723	158	2	1	723	1	719	0.0	1051
+wtf6	SPOG_01934	40.741	54	30	2	32	84	4	56	1.52e-10	62.0
+wtf6	SPOG_01265	41.509	53	25	2	32	78	48	100	8.76e-10	59.3
+# BLASTP 2.7.1+
+# Query: wtf6
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+wtf6	SPOG_04557	88.333	660	73	2	1	657	1	659	0.0	1151
+# BLASTP 2.7.1+
+# Query: wtf6
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 11 hits found
+wtf6	SPOG_01228	88.972	535	59	0	1	535	1	535	0.0	984
+wtf6	SPOG_03518	67.238	525	169	1	9	533	2	523	0.0	754
+wtf6	SPOG_03517	66.031	524	173	1	9	532	2	520	0.0	735
+wtf6	SPOG_03513	67.939	524	162	3	9	529	2	522	0.0	731
+wtf6	SPOG_01647	60.308	519	192	4	9	524	2	509	0.0	656
+wtf6	SPOG_03625	52.987	519	239	1	10	523	3	521	0.0	583
+# BLASTP 2.7.1+
+# Query: wtf6
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+wtf6	SPOG_01203	84.759	374	55	2	1	372	1	374	0.0	653
+# BLASTP 2.7.1+
+# Query: wtf6
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf6	SPOG_03611	48.352	273	89	9	1	266	1	228	2.94e-65	201
+wtf6	XP_013022188.1	51.282	234	74	7	1	227	1	201	4.61e-60	187
+wtf6	XP_013022189.1	51.282	234	74	7	1	227	1	201	1.17e-59	186
+# BLASTP 2.7.1+
+# Query: wtf7 |
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 25 hits found
+wtf7	SPOG_03675	89.298	570	51	1	1	570	1	560	0.0	1051
+wtf7	SPOG_02742	40.741	27	16	0	121	147	54	80	0.72	30.4
+# BLASTP 2.7.1+
+# Query: wtf7
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 19 hits found
+wtf7	SPOG_01999	90.625	1408	130	2	1	1408	1	1406	0.0	2667
+wtf7	SPOG_01793	48.300	1265	609	17	83	1329	122	1359	0.0	1176
+wtf7	SPOG_03305	40.816	49	24	2	985	1031	732	777	0.82	31.6
+# BLASTP 2.7.1+
+# Query: wtf7
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+wtf7	SPOG_00190	44.366	284	112	10	70	316	141	415	1.50e-51	173
+wtf7	SPOG_00190	76.389	72	17	0	1	72	1	72	5.96e-36	131
+# BLASTP 2.7.1+
+# Query: wtf8 |
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+wtf8	SPOG_04270	90.771	791	73	0	1	791	1	791	0.0	1470
+# BLASTP 2.7.1+
+# Query: wtf8
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+wtf8	SPOG_04959	71.202	757	215	2	1	756	1	755	0.0	1041
+# BLASTP 2.7.1+
+# Query: wtf8
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+wtf8	SPOG_01885	73.705	251	66	0	1	251	1	251	1.02e-132	372
+# BLASTP 2.7.1+
+# Query: wtf8
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+wtf8	SPOG_03056	87.736	212	26	0	1	212	1	212	1.87e-137	381
+# BLASTP 2.7.1+
+# Query: wtf9 |
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf9	XP_013022188.1	47.674	86	36	1	1	86	1	77	8.09e-15	68.6
+wtf9	XP_013022189.1	47.674	86	36	1	1	86	1	77	1.16e-14	68.6
+# BLASTP 2.7.1+
+# Query: wtf9
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf9
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf9	SPOG_03603	43.697	238	116	7	1	233	1	225	4.81e-58	182
+wtf9	SPOG_03611	40.927	259	118	11	1	255	1	228	1.06e-37	130
+wtf9	XP_013022188.1	40.639	219	102	7	1	205	1	205	3.77e-29	107
+wtf9	XP_013022189.1	40.639	219	102	7	1	205	1	205	5.00e-29	107
+# BLASTP 2.7.1+
+# Query: wtf9
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf9	SPOG_01079	75.177	705	170	3	1	702	1	703	0.0	1016
+# BLASTP 2.7.1+
+# Query: wtf9
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf9	XP_013022188.1	44.755	143	64	5	1	141	1	130	1.26e-23	93.2
+wtf9	XP_013022189.1	44.755	143	64	5	1	141	1	130	2.72e-23	92.4
+# BLASTP 2.7.1+
+# Query: wtf9
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf9
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+wtf9	SPOG_02971	86.275	714	98	0	2	715	74	787	0.0	1297
+# BLASTP 2.7.1+
+# Query: wtf9
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf9
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 11 hits found
+wtf9	SPOG_01228	88.972	535	59	0	1	535	1	535	0.0	984
+wtf9	SPOG_03518	67.238	525	169	1	9	533	2	523	0.0	754
+wtf9	SPOG_03517	66.031	524	173	1	9	532	2	520	0.0	735
+wtf9	SPOG_03513	67.939	524	162	3	9	529	2	522	0.0	731
+wtf9	SPOG_01647	60.308	519	192	4	9	524	2	509	0.0	656
+wtf9	SPOG_03625	52.987	519	239	1	10	523	3	521	0.0	583
+# BLASTP 2.7.1+
+# Query: wtf10 |
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+wtf10	SPOG_02102	81.299	508	95	0	1	508	1	508	0.0	836
+# BLASTP 2.7.1+
+# Query: wtf10
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf10	SPOG_01079	75.177	705	170	3	1	702	1	703	0.0	1016
+# BLASTP 2.7.1+
+# Query: wtf10
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf10	SPOG_00375	84.368	467	73	0	1	467	1	467	0.0	791
+# BLASTP 2.7.1+
+# Query: wtf10
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+wtf10	SPOG_01256	77.455	448	101	0	1	448	1	448	0.0	746
+# BLASTP 2.7.1+
+# Query: wtf10
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf10	XP_013022188.1	44.828	174	62	7	1	169	1	145	1.49e-26	100
+wtf10	XP_013022189.1	44.828	174	62	7	1	169	1	145	3.20e-26	99.8
+# BLASTP 2.7.1+
+# Query: wtf11 |
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf11	SPOG_02340	92.063	1953	114	1	1	1953	1	1912	0.0	3674
+wtf11	SPOG_03863	57.150	1958	731	23	10	1939	3	1880	0.0	2278
+wtf11	SPOG_02195	55.356	1727	695	10	165	1889	48	1700	0.0	1947
+wtf11	SPOG_01786	54.763	1711	698	16	184	1887	140	1781	0.0	1947
+# BLASTP 2.7.1+
+# Query: wtf11
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 26 hits found
+wtf11	SPOG_04281	91.532	555	45	1	1	555	1	553	0.0	1045
+# BLASTP 2.7.1+
+# Query: wtf11
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 21 hits found
+wtf11	SPOG_04181	96.792	2338	75	0	1	2338	1	2338	0.0	4689
+wtf11	SPOG_02796	51.527	2358	1092	19	4	2338	4	2333	0.0	2357
+# BLASTP 2.7.1+
+# Query: wtf11
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf11	SPOG_01505	80.114	352	62	1	1	352	1	344	0.0	605
+# BLASTP 2.7.1+
+# Query: wtf11
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf11	SPOG_01080	87.408	683	86	0	1	683	1	683	0.0	1273
+wtf11	SPOG_00662	45.785	688	337	11	8	679	35	702	0.0	591
+# BLASTP 2.7.1+
+# Query: wtf11
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf11	SPOG_00949	87.500	736	91	1	1	735	1	736	0.0	1350
+wtf11	SPOG_01212	61.905	21	8	0	112	132	250	270	0.91	30.4
+# BLASTP 2.7.1+
+# Query: wtf11
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 102 hits found
+wtf11	SPOG_00412	73.323	671	127	4	1	671	1	619	0.0	991
+wtf11	SPOG_02000	46.138	479	250	4	108	585	113	584	4.34e-163	479
+# BLASTP 2.7.1+
+# Query: wtf12
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+wtf12	SPOG_00591	81.757	444	81	0	1	444	1	444	0.0	775
+# BLASTP 2.7.1+
+# Query: wtf12 |
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+wtf12	SPOG_01547	77.174	736	151	5	1	721	1	734	0.0	1102
+# BLASTP 2.7.1+
+# Query: wtf12
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf12	SPOG_03603	60.870	46	15	2	1	45	1	44	3.51e-13	58.9
+wtf12	XP_013022188.1	62.222	45	17	0	1	45	1	45	4.39e-11	53.1
+wtf12	SPOG_03611	62.222	45	17	0	1	45	1	45	4.79e-11	53.1
+wtf12	XP_013022189.1	62.222	45	17	0	1	45	1	45	4.93e-11	53.1
+# BLASTP 2.7.1+
+# Query: wtf12
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+wtf12	SPOG_01815	82.134	403	70	2	1	401	1	403	0.0	612
+# BLASTP 2.7.1+
+# Query: wtf12
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf12	SPOG_03603	40.400	250	120	9	1	246	1	225	9.77e-50	161
+# BLASTP 2.7.1+
+# Query: wtf12
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+wtf12	SPOG_03123	75.401	187	44	2	2	186	1	187	7.24e-105	296
+# BLASTP 2.7.1+
+# Query: wtf12
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf13 |
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+wtf13	SPOG_03603	45.957	235	106	7	1	227	1	222	3.66e-60	187
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+wtf13	SPOG_03603	66.667	39	12	1	1	39	1	38	4.18e-10	53.9
+wtf13	XP_013022188.1	64.103	39	14	0	1	39	1	39	5.28e-06	42.4
+wtf13	XP_013022189.1	64.103	39	14	0	1	39	1	39	5.63e-06	42.4
+wtf13	SPOG_03611	64.103	39	14	0	1	39	1	39	5.83e-06	42.4
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf13	XP_013022188.1	47.674	86	36	1	1	86	1	77	8.09e-15	68.6
+wtf13	XP_013022189.1	47.674	86	36	1	1	86	1	77	1.16e-14	68.6
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf13	XP_013022188.1	47.674	86	36	1	1	86	1	77	8.09e-15	68.6
+wtf13	XP_013022189.1	47.674	86	36	1	1	86	1	77	1.16e-14	68.6
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf13	XP_013022188.1	47.674	86	36	1	1	86	1	77	8.09e-15	68.6
+wtf13	XP_013022189.1	47.674	86	36	1	1	86	1	77	1.16e-14	68.6
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 17 hits found
+wtf13	SPOG_02647	77.475	2313	516	3	1	2312	1	2309	0.0	3704
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf13	SPOG_03603	40.909	110	53	3	1	99	1	109	1.53e-17	73.6
+wtf13	XP_013022188.1	62.712	59	22	0	1	59	1	59	4.73e-16	69.3
+wtf13	XP_013022189.1	62.712	59	22	0	1	59	1	59	5.76e-16	69.3
+wtf13	SPOG_03611	62.712	59	22	0	1	59	1	59	8.18e-16	68.9
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf13	XP_013022188.1	62.712	59	22	0	1	59	1	59	3.24e-15	69.3
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf13	XP_013022188.1	62.712	59	22	0	1	59	1	59	3.24e-15	69.3
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 31 hits found
+wtf13	SPOG_05743	59.310	290	95	6	1	274	1	283	7.58e-101	294
+wtf13	SPOG_05704	58.545	275	94	3	1	274	1	256	2.54e-97	284
+wtf13	SPOG_05698	59.420	276	90	4	1	274	1	256	4.68e-97	283
+wtf13	SPOG_05763	56.940	281	108	4	1	274	1	275	2.32e-95	280
+wtf13	SPOG_05731	56.842	285	109	5	1	274	1	282	6.00e-95	279
+wtf13	SPOG_05685	56.140	285	111	5	1	274	1	282	1.28e-93	275
+wtf13	SPOG_03193	57.721	272	100	4	5	274	3	261	3.72e-92	271
+wtf13	SPOG_05728	54.015	274	97	3	1	274	1	245	6.24e-90	265
+wtf13	SPOG_02282	41.667	276	146	5	1	274	1	263	1.59e-58	185
+wtf13	SPOG_01294	40.876	274	136	5	1	274	1	248	1.22e-47	157
+wtf13	SPOG_03610	58.000	50	17	1	229	274	1	50	1.32e-10	53.5
+wtf13	SPOG_05692	41.935	31	12	1	31	61	43	67	0.35	27.7
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf13	SPOG_03603	40.496	242	111	12	1	233	1	218	5.06e-44	146
+wtf13	XP_013022188.1	40.758	211	95	7	1	195	1	197	9.67e-31	111
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf13	SPOG_03611	41.060	151	69	5	1	145	1	137	1.44e-20	81.6
+wtf13	XP_013022188.1	41.781	146	64	6	1	140	1	131	5.84e-20	79.7
+wtf13	XP_013022189.1	41.781	146	64	6	1	140	1	131	7.55e-20	79.7
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf13	SPOG_03603	43.697	238	116	7	1	233	1	225	4.81e-58	182
+wtf13	SPOG_03611	40.927	259	118	11	1	255	1	228	1.06e-37	130
+wtf13	XP_013022188.1	40.639	219	102	7	1	205	1	205	3.77e-29	107
+wtf13	XP_013022189.1	40.639	219	102	7	1	205	1	205	5.00e-29	107
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf13	XP_013022188.1	63.077	65	22	1	1	63	1	65	6.32e-16	70.9
+wtf13	XP_013022189.1	63.077	65	22	1	1	63	1	65	8.37e-16	70.9
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf13	XP_013022188.1	44.697	132	66	4	1	127	1	130	6.77e-24	92.4
+wtf13	XP_013022189.1	44.697	132	66	4	1	127	1	130	1.37e-23	92.0
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf13	SPOG_03603	40.086	232	117	7	1	224	1	218	4.72e-44	146
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 13 hits found
+wtf13	SPOG_00764	80.118	1016	197	5	1	1013	1	1014	0.0	1638
+wtf13	SPOG_00429	43.750	64	34	1	332	393	118	181	6.90e-10	60.5
+wtf13	SPOG_01904	45.763	59	32	0	335	393	334	392	2.02e-09	58.5
+wtf13	SPOG_04253	46.429	56	30	0	338	393	170	225	1.72e-07	52.8
+wtf13	SPOG_04253	43.137	51	29	0	343	393	43	93	2.18e-04	42.7
+wtf13	SPOG_02464	42.857	56	32	0	338	393	1492	1547	1.79e-07	53.1
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+wtf13	SPOG_01857	77.342	587	132	1	1	586	1	587	0.0	979
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf13	SPOG_03603	41.667	228	117	5	1	223	1	217	4.60e-48	157
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf13	SPOG_03603	44.681	235	112	4	1	230	1	222	3.54e-60	188
+wtf13	XP_013022188.1	41.333	150	69	4	1	145	1	136	2.92e-23	92.0
+wtf13	XP_013022189.1	41.333	150	69	4	1	145	1	136	5.12e-23	92.0
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf13	SPOG_03603	40.400	250	120	9	1	246	1	225	9.77e-50	161
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf13	XP_013022188.1	44.755	143	64	5	1	141	1	130	1.26e-23	93.2
+wtf13	XP_013022189.1	44.755	143	64	5	1	141	1	130	2.72e-23	92.4
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf13	XP_013022188.1	44.755	143	64	5	1	141	1	130	1.26e-23	93.2
+wtf13	XP_013022189.1	44.755	143	64	5	1	141	1	130	2.72e-23	92.4
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf13	XP_013022188.1	44.828	174	62	7	1	169	1	145	1.49e-26	100
+wtf13	XP_013022189.1	44.828	174	62	7	1	169	1	145	3.20e-26	99.8
+# BLASTP 2.7.1+
+# Query: wtf13
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf13	SPOG_03611	48.352	273	89	9	1	266	1	228	2.94e-65	201
+wtf13	XP_013022188.1	51.282	234	74	7	1	227	1	201	4.61e-60	187
+wtf13	XP_013022189.1	51.282	234	74	7	1	227	1	201	1.17e-59	186
+# BLASTP 2.7.1+
+# Query: wtf14 |
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+wtf14	SPOG_04383	88.989	445	49	0	1	445	1	445	0.0	841
+# BLASTP 2.7.1+
+# Query: wtf14
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 94 hits found
+wtf14	SPOG_04297	74.416	985	249	3	1	983	1	984	0.0	1525
+wtf14	SPOG_03385	46.875	32	17	0	193	224	570	601	0.045	35.0
+wtf14	SPOG_04420	44.444	36	20	0	187	222	264	299	0.41	31.6
+wtf14	SPOG_02402	41.379	29	17	0	201	229	72	100	0.47	31.6
+# BLASTP 2.7.1+
+# Query: wtf14
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+wtf14	SPOG_00768	100.000	137	0	0	1	137	1	137	2.38e-98	276
+# BLASTP 2.7.1+
+# Query: wtf14
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf14	SPOG_03611	53.409	264	76	10	1	253	1	228	8.10e-73	219
+wtf14	XP_013022188.1	56.356	236	69	9	1	226	1	212	1.75e-68	208
+wtf14	XP_013022189.1	56.356	236	69	10	1	226	1	212	3.12e-68	208
+# BLASTP 2.7.1+
+# Query: wtf15 |
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 40 hits found
+wtf15	SPOG_02465	90.206	827	80	1	1	827	1	826	0.0	1553
+wtf15	SPOG_02528	41.791	268	138	5	567	818	400	665	5.36e-56	207
+wtf15	SPOG_01514	45.161	31	17	0	716	746	356	386	0.10	33.9
+# BLASTP 2.7.1+
+# Query: wtf15
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+wtf15	SPOG_02495	85.757	1004	143	0	1	1004	1	1004	0.0	1815
+# BLASTP 2.7.1+
+# Query: wtf15
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+wtf15	SPOG_04694	85.635	898	113	7	1	885	1	895	0.0	1453
+wtf15	SPOG_01259	46.232	783	347	17	1	760	1	732	0.0	617
+wtf15	SPOG_03147	40.203	296	161	5	104	393	181	466	3.64e-59	211
+# BLASTP 2.7.1+
+# Query: wtf15
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+wtf15	SPOG_04075	55.878	1514	612	12	1	1492	1	1480	0.0	1450
+# BLASTP 2.7.1+
+# Query: wtf15
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+wtf15	SPOG_03447	85.069	576	86	0	1	576	1	576	0.0	1040
+# BLASTP 2.7.1+
+# Query: wtf15
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+wtf15	SPOG_02183	86.287	474	65	0	1	474	1	474	0.0	846
+# BLASTP 2.7.1+
+# Query: wtf15
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf15	SPOG_03611	53.409	264	76	10	1	253	1	228	8.10e-73	219
+wtf15	XP_013022188.1	56.356	236	69	9	1	226	1	212	1.75e-68	208
+wtf15	XP_013022189.1	56.356	236	69	10	1	226	1	212	3.12e-68	208
+# BLASTP 2.7.1+
+# Query: wtf15
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+wtf15	SPOG_04551	78.864	440	90	1	1	437	1	440	0.0	732
+# BLASTP 2.7.1+
+# Query: wtf15
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+wtf15	SPOG_03782	90.909	363	33	0	1	363	1	363	0.0	689
+# BLASTP 2.7.1+
+# Query: wtf16 |
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf16
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf16
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+wtf16	SPOG_04959	71.202	757	215	2	1	756	1	755	0.0	1041
+# BLASTP 2.7.1+
+# Query: wtf16
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf16	SPOG_03611	51.639	244	96	6	1	238	1	228	7.36e-71	214
+wtf16	XP_013022188.1	48.402	219	83	5	1	203	1	205	6.24e-55	173
+wtf16	XP_013022189.1	48.402	219	83	5	1	203	1	205	1.92e-54	172
+# BLASTP 2.7.1+
+# Query: wtf16
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+# BLASTP 2.7.1+
+# Query: wtf16
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+wtf16	SPOG_02188	95.455	484	22	0	1	484	1	484	0.0	954
+# BLASTP 2.7.1+
+# Query: wtf16
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+wtf16	SPOG_01885	73.705	251	66	0	1	251	1	251	1.02e-132	372
+# BLASTP 2.7.1+
+# Query: wtf16
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf16	SPOG_01079	75.177	705	170	3	1	702	1	703	0.0	1016
+# BLASTP 2.7.1+
+# Query: wtf16
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 45 hits found
+wtf16	SPOG_00937	87.645	1295	157	2	1	1294	1	1293	0.0	2246
+wtf16	SPOG_03688	40.884	362	185	6	403	749	833	1180	8.55e-79	284
+wtf16	SPOG_03688	52.410	166	79	0	980	1145	1450	1615	3.96e-49	189
+wtf16	SPOG_02464	41.587	315	159	7	447	750	817	1117	1.26e-69	255
+wtf16	SPOG_02464	52.174	161	76	1	987	1146	1131	1291	1.29e-44	174
+wtf16	SPOG_01004	41.195	318	165	7	443	750	418	723	1.70e-68	250
+wtf16	SPOG_01004	53.333	165	71	2	988	1146	733	897	1.61e-45	177
+wtf16	SPOG_03698	48.101	158	81	1	988	1144	653	810	1.95e-38	154
+wtf16	SPOG_00521	48.966	145	73	1	993	1137	766	909	1.39e-35	144
+wtf16	SPOG_00198	48.750	160	81	1	986	1144	694	853	1.72e-40	161
+wtf16	SPOG_02920	42.581	155	86	1	1010	1161	1750	1904	3.78e-30	127
+wtf16	SPOG_03526	43.011	186	103	2	991	1176	958	1140	6.00e-37	149
+wtf16	SPOG_00134	42.177	147	85	0	991	1137	770	916	1.42e-31	131
+wtf16	SPOG_00868	45.029	171	92	2	993	1162	637	806	3.66e-36	146
+# BLASTP 2.7.1+
+# Query: wtf16
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf16	SPOG_00375	84.368	467	73	0	1	467	1	467	0.0	791
+# BLASTP 2.7.1+
+# Query: wtf16
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+wtf16	SPOG_04484	91.942	484	39	0	1	484	1	484	0.0	933
+# BLASTP 2.7.1+
+# Query: wtf17 |
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf17
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+wtf17	SPOG_02934	68.310	142	36	3	1	134	1	141	2.85e-53	162
+wtf17	SPOG_03104	45.714	35	16	1	97	131	316	347	0.13	29.3
+# BLASTP 2.7.1+
+# Query: wtf17
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf17
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf17	SPOG_00688	76.471	1054	233	6	2	1041	1	1053	0.0	1634
+wtf17	SPOG_00688	41.270	63	35	1	809	869	992	1054	7.27e-07	50.8
+wtf17	SPOG_02717	41.379	696	386	14	56	735	12	701	3.30e-174	524
+wtf17	SPOG_00369	40.948	696	390	13	56	735	12	702	4.50e-174	523
+# BLASTP 2.7.1+
+# Query: wtf17
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 15 hits found
+wtf17	SPOG_00544	92.419	1108	75	1	1	1108	1	1099	0.0	2093
+wtf17	SPOG_00113	51.317	949	447	4	160	1108	100	1033	0.0	1046
+wtf17	SPOG_02576	43.617	94	46	2	501	594	1217	1303	4.16e-15	78.2
+# BLASTP 2.7.1+
+# Query: wtf17
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf17	SPOG_03603	43.697	238	116	7	1	233	1	225	4.81e-58	182
+wtf17	SPOG_03611	40.927	259	118	11	1	255	1	228	1.06e-37	130
+wtf17	XP_013022188.1	40.639	219	102	7	1	205	1	205	3.77e-29	107
+wtf17	XP_013022189.1	40.639	219	102	7	1	205	1	205	5.00e-29	107
+# BLASTP 2.7.1+
+# Query: wtf17
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf17	XP_013025244.1	83.878	918	139	3	1	914	1	913	0.0	1605
+wtf17	XP_013025243.1	87.169	756	89	2	1	752	1	752	0.0	1377
+# BLASTP 2.7.1+
+# Query: wtf17
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf17	SPOG_01079	75.177	705	170	3	1	702	1	703	0.0	1016
+# BLASTP 2.7.1+
+# Query: wtf17
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf17	SPOG_03611	53.409	264	76	10	1	253	1	228	8.10e-73	219
+wtf17	XP_013022188.1	56.356	236	69	9	1	226	1	212	1.75e-68	208
+wtf17	XP_013022189.1	56.356	236	69	10	1	226	1	212	3.12e-68	208
+# BLASTP 2.7.1+
+# Query: wtf17
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+wtf17	SPOG_00112	54.609	1139	493	7	9	1132	10	1139	0.0	1139
+# BLASTP 2.7.1+
+# Query: wtf17
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf17	SPOG_00375	84.368	467	73	0	1	467	1	467	0.0	791
+# BLASTP 2.7.1+
+# Query: wtf17
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf17	XP_013022188.1	44.755	143	64	5	1	141	1	130	1.26e-23	93.2
+wtf17	XP_013022189.1	44.755	143	64	5	1	141	1	130	2.72e-23	92.4
+# BLASTP 2.7.1+
+# Query: wtf17
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf17	SPOG_03603	41.532	248	108	11	1	234	1	225	4.36e-45	149
+wtf17	XP_013022188.1	43.972	141	66	5	1	139	1	130	5.96e-21	85.9
+wtf17	XP_013022189.1	43.972	141	66	5	1	139	1	130	6.98e-21	85.9
+# BLASTP 2.7.1+
+# Query: wtf18 |
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf18	XP_013022188.1	47.674	86	36	1	1	86	1	77	8.09e-15	68.6
+wtf18	XP_013022189.1	47.674	86	36	1	1	86	1	77	1.16e-14	68.6
+# BLASTP 2.7.1+
+# Query: wtf18
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 17 hits found
+wtf18	SPOG_02647	77.475	2313	516	3	1	2312	1	2309	0.0	3704
+# BLASTP 2.7.1+
+# Query: wtf18
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf18
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+wtf18	SPOG_04062	76.923	104	24	0	1	104	1	104	6.25e-60	176
+# BLASTP 2.7.1+
+# Query: wtf18
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf18	XP_013022188.1	62.712	59	22	0	1	59	1	59	3.24e-15	69.3
+# BLASTP 2.7.1+
+# Query: wtf18
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+wtf18	SPOG_04930	85.269	353	29	4	17	369	17	346	0.0	601
+wtf18	SPOG_03270	42.857	28	16	0	306	333	111	138	0.59	29.6
+# BLASTP 2.7.1+
+# Query: wtf18
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf18	SPOG_03603	43.697	238	116	7	1	233	1	225	4.81e-58	182
+wtf18	SPOG_03611	40.927	259	118	11	1	255	1	228	1.06e-37	130
+wtf18	XP_013022188.1	40.639	219	102	7	1	205	1	205	3.77e-29	107
+wtf18	XP_013022189.1	40.639	219	102	7	1	205	1	205	5.00e-29	107
+# BLASTP 2.7.1+
+# Query: wtf18
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+wtf18	SPOG_03402	83.521	534	84	1	1	530	1	534	0.0	914
+# BLASTP 2.7.1+
+# Query: wtf18
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf18
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 19 hits found
+wtf18	SPOG_00364	84.828	2386	358	3	1	2382	1	2386	0.0	4292
+wtf18	SPOG_04756	50.499	2406	1100	28	33	2382	32	2402	0.0	2408
+wtf18	SPOG_03025	50.249	2410	1108	26	9	2382	3	2357	0.0	2398
+wtf18	SPOG_03285	48.295	733	339	9	1017	1724	130	847	0.0	683
+wtf18	SPOG_03287	41.304	46	24	2	457	501	312	355	0.22	34.3
+# BLASTP 2.7.1+
+# Query: wtf18
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf18	XP_013022188.1	44.755	143	64	5	1	141	1	130	1.26e-23	93.2
+wtf18	XP_013022189.1	44.755	143	64	5	1	141	1	130	2.72e-23	92.4
+# BLASTP 2.7.1+
+# Query: wtf18
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf18	XP_013022188.1	44.755	143	64	5	1	141	1	130	1.26e-23	93.2
+wtf18	XP_013022189.1	44.755	143	64	5	1	141	1	130	2.72e-23	92.4
+# BLASTP 2.7.1+
+# Query: wtf19 |
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf19	SPOG_03603	40.964	249	110	8	1	236	1	225	1.07e-48	158
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+wtf19	SPOG_03603	45.957	235	106	7	1	227	1	222	3.66e-60	187
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+wtf19	SPOG_03603	66.667	39	12	1	1	39	1	38	4.18e-10	53.9
+wtf19	XP_013022188.1	64.103	39	14	0	1	39	1	39	5.28e-06	42.4
+wtf19	XP_013022189.1	64.103	39	14	0	1	39	1	39	5.63e-06	42.4
+wtf19	SPOG_03611	64.103	39	14	0	1	39	1	39	5.83e-06	42.4
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+wtf19	XP_013022188.1	77.193	57	13	0	1	57	1	57	2.20e-23	85.1
+wtf19	XP_013022189.1	77.193	57	13	0	1	57	1	57	2.83e-23	85.1
+wtf19	SPOG_03611	77.193	57	13	0	1	57	1	57	9.09e-23	84.0
+wtf19	SPOG_03603	73.684	57	14	1	1	57	1	56	1.37e-22	83.2
+wtf19	SPOG_03197	40.000	45	26	1	14	57	153	197	0.52	25.0
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 48 hits found
+wtf19	SPOG_02464	77.325	1667	339	4	1	1665	1	1630	0.0	2620
+wtf19	SPOG_01004	55.677	1101	444	13	526	1608	106	1180	0.0	1185
+wtf19	SPOG_03698	41.779	517	265	7	845	1341	333	833	4.49e-119	406
+wtf19	SPOG_00198	42.801	507	258	9	833	1325	365	853	5.29e-118	403
+wtf19	SPOG_03688	50.968	155	75	1	1172	1326	1462	1615	1.44e-42	169
+wtf19	SPOG_00937	54.037	161	73	1	1167	1327	988	1147	1.43e-44	175
+wtf19	SPOG_02272	42.017	119	68	1	1191	1309	716	833	2.02e-20	95.9
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 48 hits found
+wtf19	SPOG_02464	77.325	1667	339	4	1	1665	1	1630	0.0	2620
+wtf19	SPOG_01004	55.677	1101	444	13	526	1608	106	1180	0.0	1185
+wtf19	SPOG_03698	41.779	517	265	7	845	1341	333	833	4.49e-119	406
+wtf19	SPOG_00198	42.801	507	258	9	833	1325	365	853	5.29e-118	403
+wtf19	SPOG_03688	50.968	155	75	1	1172	1326	1462	1615	1.44e-42	169
+wtf19	SPOG_00937	54.037	161	73	1	1167	1327	988	1147	1.43e-44	175
+wtf19	SPOG_02272	42.017	119	68	1	1191	1309	716	833	2.02e-20	95.9
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf19	XP_013022188.1	47.674	86	36	1	1	86	1	77	8.09e-15	68.6
+wtf19	XP_013022189.1	47.674	86	36	1	1	86	1	77	1.16e-14	68.6
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+wtf19	SPOG_04657	87.798	1049	123	2	1	1045	1	1048	0.0	1860
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf19	SPOG_03603	40.909	110	53	3	1	99	1	109	1.53e-17	73.6
+wtf19	XP_013022188.1	62.712	59	22	0	1	59	1	59	4.73e-16	69.3
+wtf19	XP_013022189.1	62.712	59	22	0	1	59	1	59	5.76e-16	69.3
+wtf19	SPOG_03611	62.712	59	22	0	1	59	1	59	8.18e-16	68.9
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf19	XP_013022188.1	62.712	59	22	0	1	59	1	59	3.24e-15	69.3
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+wtf19	SPOG_00600	73.248	314	80	2	2	315	4	313	4.43e-146	411
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf19	SPOG_03603	40.496	242	111	12	1	233	1	218	5.06e-44	146
+wtf19	XP_013022188.1	40.758	211	95	7	1	195	1	197	9.67e-31	111
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf19	SPOG_03611	41.060	151	69	5	1	145	1	137	1.44e-20	81.6
+wtf19	XP_013022188.1	41.781	146	64	6	1	140	1	131	5.84e-20	79.7
+wtf19	XP_013022189.1	41.781	146	64	6	1	140	1	131	7.55e-20	79.7
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf19	SPOG_03603	43.697	238	116	7	1	233	1	225	4.81e-58	182
+wtf19	SPOG_03611	40.927	259	118	11	1	255	1	228	1.06e-37	130
+wtf19	XP_013022188.1	40.639	219	102	7	1	205	1	205	3.77e-29	107
+wtf19	XP_013022189.1	40.639	219	102	7	1	205	1	205	5.00e-29	107
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf19	SPOG_03603	42.857	217	72	5	1	165	1	217	1.26e-47	152
+wtf19	XP_013022188.1	63.077	65	22	1	1	63	1	65	2.77e-16	70.9
+wtf19	XP_013022189.1	63.077	65	22	1	1	63	1	65	3.66e-16	70.9
+wtf19	SPOG_03611	63.077	65	22	1	1	63	1	65	4.29e-16	70.5
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf19	SPOG_03603	60.870	46	15	2	1	45	1	44	3.51e-13	58.9
+wtf19	XP_013022188.1	62.222	45	17	0	1	45	1	45	4.39e-11	53.1
+wtf19	SPOG_03611	62.222	45	17	0	1	45	1	45	4.79e-11	53.1
+wtf19	XP_013022189.1	62.222	45	17	0	1	45	1	45	4.93e-11	53.1
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf19	SPOG_03603	56.897	58	24	1	1	57	1	58	9.61e-15	64.3
+wtf19	XP_013022188.1	62.712	59	20	1	1	57	1	59	2.06e-14	63.2
+wtf19	XP_013022189.1	62.712	59	20	1	1	57	1	59	2.49e-14	63.2
+wtf19	SPOG_03611	62.712	59	20	1	1	57	1	59	3.93e-14	62.8
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf19	XP_013022188.1	44.697	132	66	4	1	127	1	130	6.77e-24	92.4
+wtf19	XP_013022189.1	44.697	132	66	4	1	127	1	130	1.37e-23	92.0
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf19	SPOG_03603	40.086	232	117	7	1	224	1	218	4.72e-44	146
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf19	SPOG_03603	41.667	228	117	5	1	223	1	217	4.60e-48	157
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+wtf19	SPOG_01137	82.956	1238	209	2	1	1236	1	1238	0.0	2110
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf19	SPOG_03611	53.409	264	76	10	1	253	1	228	8.10e-73	219
+wtf19	XP_013022188.1	56.356	236	69	9	1	226	1	212	1.75e-68	208
+wtf19	XP_013022189.1	56.356	236	69	10	1	226	1	212	3.12e-68	208
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf19	SPOG_03611	52.549	255	88	7	1	249	1	228	1.75e-72	219
+wtf19	XP_013022188.1	53.947	228	83	6	1	222	1	212	2.79e-67	205
+wtf19	XP_013022189.1	53.947	228	83	6	1	222	1	212	5.46e-67	204
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf19	SPOG_03603	44.681	235	112	4	1	230	1	222	3.54e-60	188
+wtf19	XP_013022188.1	41.333	150	69	4	1	145	1	136	2.92e-23	92.0
+wtf19	XP_013022189.1	41.333	150	69	4	1	145	1	136	5.12e-23	92.0
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf19	SPOG_03603	40.086	232	112	7	1	219	1	218	5.77e-43	143
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf19	SPOG_03603	40.400	250	120	9	1	246	1	225	9.77e-50	161
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf19	XP_013022188.1	44.755	143	64	5	1	141	1	130	1.26e-23	93.2
+wtf19	XP_013022189.1	44.755	143	64	5	1	141	1	130	2.72e-23	92.4
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+wtf19	XP_013022188.1	51.445	173	64	7	1	167	1	159	5.10e-36	122
+wtf19	XP_013022189.1	51.445	173	64	7	1	167	1	159	8.35e-36	122
+wtf19	SPOG_03611	43.678	174	66	8	1	167	1	149	2.79e-26	97.4
+wtf19	SPOG_03603	40.000	150	70	6	1	144	1	136	1.32e-21	85.1
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf19	SPOG_03603	41.532	248	108	11	1	234	1	225	4.36e-45	149
+wtf19	XP_013022188.1	43.972	141	66	5	1	139	1	130	5.96e-21	85.9
+wtf19	XP_013022189.1	43.972	141	66	5	1	139	1	130	6.98e-21	85.9
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf19	SPOG_03611	47.940	267	93	8	1	260	1	228	5.78e-66	202
+wtf19	XP_013022188.1	52.193	228	75	7	1	221	1	201	1.28e-60	188
+wtf19	XP_013022189.1	52.193	228	75	7	1	221	1	201	3.45e-60	187
+# BLASTP 2.7.1+
+# Query: wtf19
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf19	SPOG_03611	48.352	273	89	9	1	266	1	228	2.94e-65	201
+wtf19	XP_013022188.1	51.282	234	74	7	1	227	1	201	4.61e-60	187
+wtf19	XP_013022189.1	51.282	234	74	7	1	227	1	201	1.17e-59	186
+# BLASTP 2.7.1+
+# Query: wtf20 |
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+wtf20	SPOG_02373	85.759	316	45	0	1	316	1	316	0.0	573
+# BLASTP 2.7.1+
+# Query: wtf20
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 17 hits found
+wtf20	SPOG_02647	77.475	2313	516	3	1	2312	1	2309	0.0	3704
+# BLASTP 2.7.1+
+# Query: wtf20
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+wtf20	SPOG_04043	94.070	371	22	0	1	371	1	371	0.0	707
+# BLASTP 2.7.1+
+# Query: wtf20
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 15 hits found
+wtf20	SPOG_00544	92.419	1108	75	1	1	1108	1	1099	0.0	2093
+wtf20	SPOG_00113	51.317	949	447	4	160	1108	100	1033	0.0	1046
+wtf20	SPOG_02576	43.617	94	46	2	501	594	1217	1303	4.16e-15	78.2
+# BLASTP 2.7.1+
+# Query: wtf20
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf20	SPOG_03611	51.639	244	96	6	1	238	1	228	7.36e-71	214
+wtf20	XP_013022188.1	48.402	219	83	5	1	203	1	205	6.24e-55	173
+wtf20	XP_013022189.1	48.402	219	83	5	1	203	1	205	1.92e-54	172
+# BLASTP 2.7.1+
+# Query: wtf20
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+# BLASTP 2.7.1+
+# Query: wtf20
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf20	SPOG_03611	41.060	151	69	5	1	145	1	137	1.44e-20	81.6
+wtf20	XP_013022188.1	41.781	146	64	6	1	140	1	131	5.84e-20	79.7
+wtf20	XP_013022189.1	41.781	146	64	6	1	140	1	131	7.55e-20	79.7
+# BLASTP 2.7.1+
+# Query: wtf20
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf20	SPOG_03611	50.273	183	80	4	19	197	53	228	1.25e-45	148
+wtf20	XP_013022188.1	46.980	149	68	3	20	158	54	201	1.67e-32	114
+wtf20	XP_013022189.1	46.980	149	68	3	20	158	54	201	2.75e-32	114
+# BLASTP 2.7.1+
+# Query: wtf20
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf20	SPOG_03603	40.086	232	117	7	1	224	1	218	4.72e-44	146
+# BLASTP 2.7.1+
+# Query: wtf20
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+wtf20	SPOG_01147	85.614	1140	142	3	1	1139	1	1119	0.0	2018
+# BLASTP 2.7.1+
+# Query: wtf20
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf20	SPOG_01114	89.270	932	72	4	1	905	1	931	0.0	1680
+# BLASTP 2.7.1+
+# Query: wtf20
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf20	SPOG_03611	53.409	264	76	10	1	253	1	228	8.10e-73	219
+wtf20	XP_013022188.1	56.356	236	69	9	1	226	1	212	1.75e-68	208
+wtf20	XP_013022189.1	56.356	236	69	10	1	226	1	212	3.12e-68	208
+# BLASTP 2.7.1+
+# Query: wtf20
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf20	SPOG_03611	48.193	249	86	8	1	227	1	228	2.93e-55	174
+wtf20	XP_013022188.1	46.296	216	73	7	1	188	1	201	2.75e-42	140
+wtf20	XP_013022189.1	46.296	216	73	7	1	188	1	201	5.69e-42	140
+# BLASTP 2.7.1+
+# Query: wtf20
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf20	SPOG_03611	52.549	255	88	7	1	249	1	228	1.75e-72	219
+wtf20	XP_013022188.1	53.947	228	83	6	1	222	1	212	2.79e-67	205
+wtf20	XP_013022189.1	53.947	228	83	6	1	222	1	212	5.46e-67	204
+# BLASTP 2.7.1+
+# Query: wtf20
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+wtf20	SPOG_03123	75.401	187	44	2	2	186	1	187	7.24e-105	296
+# BLASTP 2.7.1+
+# Query: wtf20
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+wtf20	XP_013022188.1	51.445	173	64	7	1	167	1	159	5.10e-36	122
+wtf20	XP_013022189.1	51.445	173	64	7	1	167	1	159	8.35e-36	122
+wtf20	SPOG_03611	43.678	174	66	8	1	167	1	149	2.79e-26	97.4
+wtf20	SPOG_03603	40.000	150	70	6	1	144	1	136	1.32e-21	85.1
+# BLASTP 2.7.1+
+# Query: wtf20
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf20	XP_013022188.1	44.828	174	62	7	1	169	1	145	1.49e-26	100
+wtf20	XP_013022189.1	44.828	174	62	7	1	169	1	145	3.20e-26	99.8
+# BLASTP 2.7.1+
+# Query: wtf20
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf20	SPOG_03611	47.940	267	93	8	1	260	1	228	5.78e-66	202
+wtf20	XP_013022188.1	52.193	228	75	7	1	221	1	201	1.28e-60	188
+wtf20	XP_013022189.1	52.193	228	75	7	1	221	1	201	3.45e-60	187
+# BLASTP 2.7.1+
+# Query: wtf20
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf20	SPOG_03611	48.352	273	89	9	1	266	1	228	2.94e-65	201
+wtf20	XP_013022188.1	51.282	234	74	7	1	227	1	201	4.61e-60	187
+wtf20	XP_013022189.1	51.282	234	74	7	1	227	1	201	1.17e-59	186
+# BLASTP 2.7.1+
+# Query: wtf20
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf20	XP_013022188.1	51.402	214	76	6	1	201	1	199	5.58e-53	167
+wtf20	XP_013022189.1	51.402	214	76	6	1	201	1	199	1.02e-52	167
+wtf20	SPOG_03611	51.691	207	76	5	1	201	1	189	1.99e-52	166
+# BLASTP 2.7.1+
+# Query: wtf21 |
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+wtf21	SPOG_02674	78.085	470	103	0	1	470	1	470	0.0	753
+wtf21	SPOG_02059	44.191	439	235	3	32	468	65	495	3.06e-129	381
+# BLASTP 2.7.1+
+# Query: wtf21
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf21
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf21	SPOG_04155	92.877	351	25	0	1	351	1	351	0.0	684
+wtf21	SPOG_04946	42.398	342	178	5	13	336	43	383	9.50e-81	249
+# BLASTP 2.7.1+
+# Query: wtf21
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf21	SPOG_03611	51.639	244	96	6	1	238	1	228	7.36e-71	214
+wtf21	XP_013022188.1	48.402	219	83	5	1	203	1	205	6.24e-55	173
+wtf21	XP_013022189.1	48.402	219	83	5	1	203	1	205	1.92e-54	172
+# BLASTP 2.7.1+
+# Query: wtf21
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf21	SPOG_03603	44.681	235	112	4	1	230	1	222	3.54e-60	188
+wtf21	XP_013022188.1	41.333	150	69	4	1	145	1	136	2.92e-23	92.0
+wtf21	XP_013022189.1	41.333	150	69	4	1	145	1	136	5.12e-23	92.0
+# BLASTP 2.7.1+
+# Query: wtf21
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf21	SPOG_00375	84.368	467	73	0	1	467	1	467	0.0	791
+# BLASTP 2.7.1+
+# Query: wtf21
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf21	XP_013022188.1	44.755	143	64	5	1	141	1	130	1.26e-23	93.2
+wtf21	XP_013022189.1	44.755	143	64	5	1	141	1	130	2.72e-23	92.4
+# BLASTP 2.7.1+
+# Query: wtf21
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 93 hits found
+wtf21	SPOG_03124	95.169	414	20	0	1	414	1	414	0.0	829
+wtf21	SPOG_02744	41.045	402	213	6	16	403	46	437	3.40e-100	305
+wtf21	SPOG_01918	40.351	57	32	1	254	310	177	231	6.53e-05	42.7
+wtf21	SPOG_04084	41.463	41	23	1	263	303	169	208	0.29	30.8
+wtf21	SPOG_00541	40.541	37	19	2	171	206	141	175	0.74	29.6
+# BLASTP 2.7.1+
+# Query: wtf21
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+wtf21	SPOG_04484	91.942	484	39	0	1	484	1	484	0.0	933
+# BLASTP 2.7.1+
+# Query: wtf21
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf21	SPOG_03790	77.121	389	84	2	1	384	1	389	0.0	604
+# BLASTP 2.7.1+
+# Query: wtf21
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf21	XP_013022188.1	44.828	174	62	7	1	169	1	145	1.49e-26	100
+wtf21	XP_013022189.1	44.828	174	62	7	1	169	1	145	3.20e-26	99.8
+# BLASTP 2.7.1+
+# Query: wtf23 |
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf23	SPOG_03603	40.964	249	110	8	1	236	1	225	1.07e-48	158
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+wtf23	SPOG_03603	45.957	235	106	7	1	227	1	222	3.66e-60	187
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+wtf23	SPOG_03603	66.667	39	12	1	1	39	1	38	4.18e-10	53.9
+wtf23	XP_013022188.1	64.103	39	14	0	1	39	1	39	5.28e-06	42.4
+wtf23	XP_013022189.1	64.103	39	14	0	1	39	1	39	5.63e-06	42.4
+wtf23	SPOG_03611	64.103	39	14	0	1	39	1	39	5.83e-06	42.4
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+wtf23	XP_013022188.1	77.193	57	13	0	1	57	1	57	2.20e-23	85.1
+wtf23	XP_013022189.1	77.193	57	13	0	1	57	1	57	2.83e-23	85.1
+wtf23	SPOG_03611	77.193	57	13	0	1	57	1	57	9.09e-23	84.0
+wtf23	SPOG_03603	73.684	57	14	1	1	57	1	56	1.37e-22	83.2
+wtf23	SPOG_03197	40.000	45	26	1	14	57	153	197	0.52	25.0
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 48 hits found
+wtf23	SPOG_02464	77.325	1667	339	4	1	1665	1	1630	0.0	2620
+wtf23	SPOG_01004	55.677	1101	444	13	526	1608	106	1180	0.0	1185
+wtf23	SPOG_03698	41.779	517	265	7	845	1341	333	833	4.49e-119	406
+wtf23	SPOG_00198	42.801	507	258	9	833	1325	365	853	5.29e-118	403
+wtf23	SPOG_03688	50.968	155	75	1	1172	1326	1462	1615	1.44e-42	169
+wtf23	SPOG_00937	54.037	161	73	1	1167	1327	988	1147	1.43e-44	175
+wtf23	SPOG_02272	42.017	119	68	1	1191	1309	716	833	2.02e-20	95.9
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 48 hits found
+wtf23	SPOG_02464	77.325	1667	339	4	1	1665	1	1630	0.0	2620
+wtf23	SPOG_01004	55.677	1101	444	13	526	1608	106	1180	0.0	1185
+wtf23	SPOG_03698	41.779	517	265	7	845	1341	333	833	4.49e-119	406
+wtf23	SPOG_00198	42.801	507	258	9	833	1325	365	853	5.29e-118	403
+wtf23	SPOG_03688	50.968	155	75	1	1172	1326	1462	1615	1.44e-42	169
+wtf23	SPOG_00937	54.037	161	73	1	1167	1327	988	1147	1.43e-44	175
+wtf23	SPOG_02272	42.017	119	68	1	1191	1309	716	833	2.02e-20	95.9
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf23	XP_013022188.1	47.674	86	36	1	1	86	1	77	8.09e-15	68.6
+wtf23	XP_013022189.1	47.674	86	36	1	1	86	1	77	1.16e-14	68.6
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+wtf23	SPOG_04657	87.798	1049	123	2	1	1045	1	1048	0.0	1860
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf23	SPOG_03603	40.909	110	53	3	1	99	1	109	1.53e-17	73.6
+wtf23	XP_013022188.1	62.712	59	22	0	1	59	1	59	4.73e-16	69.3
+wtf23	XP_013022189.1	62.712	59	22	0	1	59	1	59	5.76e-16	69.3
+wtf23	SPOG_03611	62.712	59	22	0	1	59	1	59	8.18e-16	68.9
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf23	XP_013022188.1	62.712	59	22	0	1	59	1	59	3.24e-15	69.3
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+wtf23	SPOG_00600	73.248	314	80	2	2	315	4	313	4.43e-146	411
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf23	SPOG_03603	40.496	242	111	12	1	233	1	218	5.06e-44	146
+wtf23	XP_013022188.1	40.758	211	95	7	1	195	1	197	9.67e-31	111
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf23	SPOG_03611	41.060	151	69	5	1	145	1	137	1.44e-20	81.6
+wtf23	XP_013022188.1	41.781	146	64	6	1	140	1	131	5.84e-20	79.7
+wtf23	XP_013022189.1	41.781	146	64	6	1	140	1	131	7.55e-20	79.7
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf23	SPOG_03603	43.697	238	116	7	1	233	1	225	4.81e-58	182
+wtf23	SPOG_03611	40.927	259	118	11	1	255	1	228	1.06e-37	130
+wtf23	XP_013022188.1	40.639	219	102	7	1	205	1	205	3.77e-29	107
+wtf23	XP_013022189.1	40.639	219	102	7	1	205	1	205	5.00e-29	107
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf23	SPOG_03603	42.857	217	72	5	1	165	1	217	1.26e-47	152
+wtf23	XP_013022188.1	63.077	65	22	1	1	63	1	65	2.77e-16	70.9
+wtf23	XP_013022189.1	63.077	65	22	1	1	63	1	65	3.66e-16	70.9
+wtf23	SPOG_03611	63.077	65	22	1	1	63	1	65	4.29e-16	70.5
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf23	XP_013022188.1	63.077	65	22	1	1	63	1	65	6.32e-16	70.9
+wtf23	XP_013022189.1	63.077	65	22	1	1	63	1	65	8.37e-16	70.9
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf23	XP_013022188.1	44.697	132	66	4	1	127	1	130	6.77e-24	92.4
+wtf23	XP_013022189.1	44.697	132	66	4	1	127	1	130	1.37e-23	92.0
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf23	SPOG_03603	40.086	232	117	7	1	224	1	218	4.72e-44	146
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf23	XP_013022188.1	40.639	219	98	7	1	201	1	205	1.52e-29	108
+wtf23	XP_013022189.1	40.639	219	98	7	1	201	1	205	2.24e-29	108
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf23	SPOG_03603	41.667	228	117	5	1	223	1	217	4.60e-48	157
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf23	SPOG_03611	53.409	264	76	10	1	253	1	228	8.10e-73	219
+wtf23	XP_013022188.1	56.356	236	69	9	1	226	1	212	1.75e-68	208
+wtf23	XP_013022189.1	56.356	236	69	10	1	226	1	212	3.12e-68	208
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf23	SPOG_03611	52.549	255	88	7	1	249	1	228	1.75e-72	219
+wtf23	XP_013022188.1	53.947	228	83	6	1	222	1	212	2.79e-67	205
+wtf23	XP_013022189.1	53.947	228	83	6	1	222	1	212	5.46e-67	204
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf23	SPOG_03603	44.681	235	112	4	1	230	1	222	3.54e-60	188
+wtf23	XP_013022188.1	41.333	150	69	4	1	145	1	136	2.92e-23	92.0
+wtf23	XP_013022189.1	41.333	150	69	4	1	145	1	136	5.12e-23	92.0
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf23	SPOG_03603	40.086	232	112	7	1	219	1	218	5.77e-43	143
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf23	SPOG_03603	40.400	250	120	9	1	246	1	225	9.77e-50	161
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf23	XP_013022188.1	44.755	143	64	5	1	141	1	130	1.26e-23	93.2
+wtf23	XP_013022189.1	44.755	143	64	5	1	141	1	130	2.72e-23	92.4
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+wtf23	XP_013022188.1	51.445	173	64	7	1	167	1	159	5.10e-36	122
+wtf23	XP_013022189.1	51.445	173	64	7	1	167	1	159	8.35e-36	122
+wtf23	SPOG_03611	43.678	174	66	8	1	167	1	149	2.79e-26	97.4
+wtf23	SPOG_03603	40.000	150	70	6	1	144	1	136	1.32e-21	85.1
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 45 hits found
+wtf23	SPOG_01227	88.306	248	29	0	1	248	1	248	1.22e-164	452
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf23	SPOG_03603	41.532	248	108	11	1	234	1	225	4.36e-45	149
+wtf23	XP_013022188.1	43.972	141	66	5	1	139	1	130	5.96e-21	85.9
+wtf23	XP_013022189.1	43.972	141	66	5	1	139	1	130	6.98e-21	85.9
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf23	SPOG_03611	47.940	267	93	8	1	260	1	228	5.78e-66	202
+wtf23	XP_013022188.1	52.193	228	75	7	1	221	1	201	1.28e-60	188
+wtf23	XP_013022189.1	52.193	228	75	7	1	221	1	201	3.45e-60	187
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf23	SPOG_03611	48.352	273	89	9	1	266	1	228	2.94e-65	201
+wtf23	XP_013022188.1	51.282	234	74	7	1	227	1	201	4.61e-60	187
+wtf23	XP_013022189.1	51.282	234	74	7	1	227	1	201	1.17e-59	186
+# BLASTP 2.7.1+
+# Query: wtf23
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf23	SPOG_03603	41.797	256	106	7	1	244	1	225	1.61e-53	171
+wtf23	XP_013022188.1	42.759	145	60	6	1	138	1	129	3.17e-18	78.6
+wtf23	XP_013022189.1	42.759	145	60	6	1	138	1	129	4.30e-18	78.6
+# BLASTP 2.7.1+
+# Query: wtf25 |
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf25
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf25
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 15 hits found
+wtf25	SPOG_00544	92.419	1108	75	1	1	1108	1	1099	0.0	2093
+wtf25	SPOG_00113	51.317	949	447	4	160	1108	100	1033	0.0	1046
+wtf25	SPOG_02576	43.617	94	46	2	501	594	1217	1303	4.16e-15	78.2
+# BLASTP 2.7.1+
+# Query: wtf25
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf25	SPOG_03611	51.639	244	96	6	1	238	1	228	7.36e-71	214
+wtf25	XP_013022188.1	48.402	219	83	5	1	203	1	205	6.24e-55	173
+wtf25	XP_013022189.1	48.402	219	83	5	1	203	1	205	1.92e-54	172
+# BLASTP 2.7.1+
+# Query: wtf25
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf25	SPOG_03603	43.697	238	116	7	1	233	1	225	4.81e-58	182
+wtf25	SPOG_03611	40.927	259	118	11	1	255	1	228	1.06e-37	130
+wtf25	XP_013022188.1	40.639	219	102	7	1	205	1	205	3.77e-29	107
+wtf25	XP_013022189.1	40.639	219	102	7	1	205	1	205	5.00e-29	107
+# BLASTP 2.7.1+
+# Query: wtf25
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+# BLASTP 2.7.1+
+# Query: wtf25
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf25	SPOG_01079	75.177	705	170	3	1	702	1	703	0.0	1016
+# BLASTP 2.7.1+
+# Query: wtf25
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf25	SPOG_03611	53.409	264	76	10	1	253	1	228	8.10e-73	219
+wtf25	XP_013022188.1	56.356	236	69	9	1	226	1	212	1.75e-68	208
+wtf25	XP_013022189.1	56.356	236	69	10	1	226	1	212	3.12e-68	208
+# BLASTP 2.7.1+
+# Query: wtf25
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+wtf25	SPOG_00375	84.368	467	73	0	1	467	1	467	0.0	791
+# BLASTP 2.7.1+
+# Query: wtf25
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 16 hits found
+wtf25	SPOG_01647	84.310	529	69	3	1	529	1	515	0.0	934
+wtf25	SPOG_03517	66.352	529	171	3	1	529	1	522	0.0	758
+wtf25	SPOG_03513	69.466	524	158	2	1	524	1	522	0.0	756
+wtf25	SPOG_03518	61.079	519	189	4	1	515	1	510	0.0	680
+wtf25	SPOG_01228	59.733	524	207	3	2	524	9	529	0.0	658
+wtf25	SPOG_03625	51.838	517	242	2	1	512	1	515	0.0	573
+# BLASTP 2.7.1+
+# Query: wtf25
+# Database: scy4_scy4/database
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+wtf25	SPOG_03603	41.532	248	108	11	1	234	1	225	4.36e-45	149
+wtf25	XP_013022188.1	43.972	141	66	5	1	139	1	130	5.96e-21	85.9
+wtf25	XP_013022189.1	43.972	141	66	5	1	139	1	130	6.98e-21	85.9
+# BLAST processed 294 queries
